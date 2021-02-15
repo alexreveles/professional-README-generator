@@ -10,16 +10,17 @@
   * [Contributing](#contributing)
   * [Tests](#Tests)
   * [Questions](#questions)
-  
+  ## Installation
+  The dependencies are necessary to be installed to be able to run the application.
   ## Usage
   In order to run this application, This application is used to create a  quick and professinal README.md describing your project in more detailed. Giving you more time to code.
-  ![screenshot](assets/images/readme.png)
+  ![alt text](assets/images/screenshot.png)
   # License
   This project is  licensed MIT license.
   ![Github License](https://img.shields.io/badge/license-MIT-red.svg)
   ## Contributing
-  Contributors: Alex Reveles
+  Contributors: alexreveles
   ## Test
-  The following is needed to run the test: node index.js
+  The following is needed to run the test: 
   ## Questions
   If you have any questions regarding about the application, please contact me https://github.com/alexreveles
