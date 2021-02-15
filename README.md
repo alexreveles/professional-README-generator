@@ -13,7 +13,7 @@
   
   ## Usage
   In order to run this application, This application is used to create a  quick and professinal README.md describing your project in more detailed. Giving you more time to code.
-  ![screenshot](assets/images/readme.png)
+  ![screenshot](./assets/images/readme.png)
   # License
   This project is  licensed MIT license.
   ![Github License](https://img.shields.io/badge/license-MIT-red.svg)
