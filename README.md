@@ -25,5 +25,9 @@
   ## Questions
   If you have any questions regarding about the application, please contact me https://github.com/alexreveles
 
+### https://youtu.be/tCcg5T-J3CM
+### https://github.com/alexreveles/professional-README-generator/blob/main/README.md
+### https://github.com/alexreveles
+
 
 ![](./assets/images/readme.png)
