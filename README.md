@@ -13,7 +13,7 @@
   
   ## Usage
   In order to run this application, This application is used to create a  quick and professinal README.md describing your project in more detailed. Giving you more time to code.
-  ![](./assets/images/readme.png)
+  
   
   # License
   This project is  licensed MIT license.
@@ -24,3 +24,6 @@
   The following is needed to run the test: node index.js
   ## Questions
   If you have any questions regarding about the application, please contact me https://github.com/alexreveles
+
+
+![](./assets/images/readme.png)
