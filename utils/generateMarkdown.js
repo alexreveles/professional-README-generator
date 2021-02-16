@@ -36,7 +36,7 @@ function generateMarkdown(data) {
   The dependencies are necessary to be installed to be able to run the application.
   ## Usage
   In order to run this application, ${data.Usage}
-  ![alt text](assets/images/screenshot.png)
+  
   # License
   This project is  licensed ${data.License} license.
   ${renderLicenseBadge(data.License)}
